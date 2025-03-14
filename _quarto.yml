@@ -4,16 +4,18 @@ project:
 website:
   title: "Justin Tong"
   navbar:
-    right:
+    right :
       - href: index.qmd
         text: Home
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
-
+ 
 editor: visual
 
+execute: 
+  freeze: auto 
