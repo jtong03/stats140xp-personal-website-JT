@@ -1,19 +1,46 @@
 ---
-title: "Personal-Website-JT"
+title: "Justin Tong"
+about:
+  template: trestles
+  image: profile-pic.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/justin-tong-8918a5270/
+    - icon: github
+      text: Github
+      href: https://github.com/jtong03
+    - icon: mailbox
+      text: Email
+      url: "mailto:justintong03@gmail.com" 
 ---
 
-This is a Quarto website.
+Hi! My name is Justin and I am a fourth year undergraduate student pursuing a statistics and data science major at UCLA. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
 
-```{r}
-rnorm(7)
-```
+B.S. in Statistics | Sept 2021 - June 2025
 
-```{r}
-print("hello")
-```
+
+## Experience
+##### Prudential Assurance Company 
+- Risk and Quality Assurance Intern | July 2025 - September 2025
+
+##### Pain Free Physical Therapy
+- Front Desk Receptionist | June 2023 - August 2023
+
+##### Go Yummy - Snacks and Beverages 
+- Barista and Front of House Leader | April 2021 - August 2021
+
+
+## Personal Projects
+##### NBA Game Outcome Prediction
+- **Developed a predictive model** to classify game outcomes using methods such as logistic regression and k-fold cross-validation techniques.
+- **Performed data cleaning and preprocessing**, ensuring the accuracy and quality of historical game data for analysis.
+- **Evaluated model performance** through metrics such as accuracy, precision, and recall to optimize predictions.
+
+##### Bike Rental Data Analysis
+- **Conducted exploratory data analysis** to identify key factors (e.g., weather, humidity, time of year) influencing bike rental trends.
+- **Utilized statistical and data visualization tools** such as Tableau to uncover correlations between environmental variables and rental demand.

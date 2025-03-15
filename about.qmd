@@ -1,9 +1,13 @@
 ---
 title: "About"
+about:
+  template: trestles
+  links:
+    - text: My Resume 
+      href: https://docs.google.com/document/d/e/2PACX-1vQwQd3zPfldj3VktPf3scEs-KxuvnX9KD72YchQSw62_yUnj-go20mStKojz_-SAw/pub
 ---
 
-About this site
+I'm Justin and I am currently in my fourth year at UCLA as a statistics and data science major. I thoroughly enjoy all things that come with statistics and the skills I've gained over the years have allowed me to analyze various kinds of situations for patterns and trends that can lead to actionable insights. 
 
-```{r}
-1 + 1
-```
+What I'm most passionate about is combining the intricacies of statistics and the biological world to gain a further understanding of the living world around us. 
+

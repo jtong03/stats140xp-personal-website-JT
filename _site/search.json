@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Justin and I am currently in my fourth year at UCLA as a statistics and data science major. I thoroughly enjoy all things that come with statistics and the skills I’ve gained over the years have allowed me to analyze various kinds of situations for patterns and trends that can lead to actionable insights.\nWhat I’m most passionate about is combining the intricacies of statistics and the biological world to gain a further understanding of the living world around us."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal-Website-JT",
+    "title": "Justin Tong",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrnorm(7)\n\n[1] -0.04912877 -1.59330451 -0.29702649  1.28457688 -0.71815828  1.23642973\n[7]  0.78963420\n\n\n\nprint(\"hello\")\n\n[1] \"hello\""
+    "text": "Hi! My name is Justin and I am a fourth year undergraduate student pursuing a statistics and data science major at UCLA."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Justin Tong",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Justin Tong",
+    "section": "Experience",
+    "text": "Experience\n\nPrudential Assurance Company\n\nRisk and Quality Assurance Intern | July 2025 - September 2025\n\n\n\nPain Free Physical Therapy\n\nFront Desk Receptionist | June 2023 - August 2023\n\n\n\nGo Yummy - Snacks and Beverages\n\nBarista and Front of House Leader | April 2021 - August 2021"
+  },
+  {
+    "objectID": "index.html#personal-projects",
+    "href": "index.html#personal-projects",
+    "title": "Justin Tong",
+    "section": "Personal Projects",
+    "text": "Personal Projects\n\nNBA Game Outcome Prediction\n\nDeveloped a predictive model to classify game outcomes using methods such as logistic regression and k-fold cross-validation techniques.\nPerformed data cleaning and preprocessing, ensuring the accuracy and quality of historical game data for analysis.\nEvaluated model performance through metrics such as accuracy, precision, and recall to optimize predictions.\n\n\n\nBike Rental Data Analysis\n\nConducted exploratory data analysis to identify key factors (e.g., weather, humidity, time of year) influencing bike rental trends.\nUtilized statistical and data visualization tools such as Tableau to uncover correlations between environmental variables and rental demand."
   }
 ]
